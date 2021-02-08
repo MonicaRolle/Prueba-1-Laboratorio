@@ -18,6 +18,17 @@ input{
     margin: auto;
 }
 
+.imagen{
+    text-align: center;
+    position: relative;
+    margin: 24px 0px 12px 0px;
+}
+
+img.avatar{
+    width: 20%;
+    border-radius: 50%;
+
+}
 
 .data{
     padding: 16px;
